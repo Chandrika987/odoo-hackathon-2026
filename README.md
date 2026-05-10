@@ -263,7 +263,7 @@ The live production deployment will be completed after final testing and optimiz
 ## Team Members
 
 ### P. Chandrika
-- Role: Backend Development
+- Role: Backend & Database Development
 - Responsibilities:
   - Supabase integration
   - Database schema management
