@@ -19,8 +19,6 @@ Built for the **Odoo Hackathon 2026** using a modern full-stack architecture pow
 - Deployment
 - Future Enhancements
 - Team
-- Hackathon
-- License
 
 ---
 
