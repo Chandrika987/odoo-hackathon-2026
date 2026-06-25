@@ -3,6 +3,7 @@
 A modern AI-inspired travel planning and trip management platform designed to help users organize journeys, manage budgets, track itineraries, maintain travel journals, and explore destinations — all in one seamless experience.
 
 Built for the **Odoo Hackathon 2026** using a modern full-stack architecture powered by **React** and **Supabase**.
+------------------------------------------------------------------------------------
 
 ---
 
