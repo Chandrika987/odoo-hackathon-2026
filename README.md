@@ -5,7 +5,7 @@ A modern AI-inspired travel planning and trip management platform designed to he
 
 
 
----
+
 
 ## 📌 Table of Contents
 
